@@ -1,15 +1,11 @@
-/* 
-
-   _____   _                   _  __                                 _   _             _____  
-  / ____| (_)                 | |/ /                                | | | |   ______  |  __ \ 
- | |       _    ___    ___    | ' /    ___   _ __     ___     ___   | | | |  |______| | |  | |
- | |      | |  / _ \  / _ \   |  <    / _ \ | '_ \   / _ \   / _ \  | | | |   ______  | |  | |
- | |____  | | |  __/ |  __/   | . \  |  __/ | |_) | | (_) | | (_) | |_| |_|  |______| | |__| |
-  \_____| |_|  \___|  \___|   |_|\_\  \___| | .__/   \___/   \___/  (_) (_)           |_____/ 
-                                            | |                                               
-                                            |_|                                               
-
-( c ) 2020 | Twinny Framework Script - Made w/ ❤ in TwinnyBlogger - Twinny Framework Dashboard #ThanksForComming ^_^
-
-*/
-var _0xbe28=["\x74\x77\x69\x6E\x6E\x79\x2D\x62\x6C\x6F\x67\x67\x65\x72\x2D\x73\x63\x72\x69\x70\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x77\x69\x6E\x6E\x79\x62\x6C\x6F\x67\x67\x65\x72\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D\x2F","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x72\x65\x66","\x64\x6F\x66\x6F\x6C\x6C\x6F\x77","\x74\x69\x74\x6C\x65","\u26A1\x20\x62\x79\x20\x54\x57\x49\x4E\x4E\x59\x20\x42\x4C\x4F\x47\x47\x45\x52","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\u26A1\x20\x62\x79\x20\x54\x77\x69\x6E\x6E\x79\x20\x46\x72\x61\x6D\x65\x77\x6F\x72\x6B\x20\x2D\x20\x4A\x61\x73\x61\x20\x50\x65\x6D\x62\x75\x61\x74\x61\x6E\x20\x54\x65\x6D\x70\x6C\x61\x74\x65\x20\x42\x6C\x6F\x67\x67\x65\x72","\x72\x65\x61\x64\x79"];$(document)[_0xbe28[12]](function(){var _0xd007x1=document[_0xbe28[1]](_0xbe28[0]);if(_0xd007x1== null){window[_0xbe28[3]][_0xbe28[2]]= _0xbe28[4]};_0xd007x1[_0xbe28[5]](_0xbe28[2],_0xbe28[4]);_0xd007x1[_0xbe28[5]](_0xbe28[6],_0xbe28[7]);_0xd007x1[_0xbe28[5]](_0xbe28[8],_0xbe28[9]);_0xd007x1[_0xbe28[10]]= _0xbe28[11]})
+              $(document).ready(function(){
+                  var z=document.getElementById("twinny-blogger-templates");
+                  if(z==null)
+                  {
+                  window.location.href="https://twinnyblogger.blogspot.com/"
+                  }
+                  z.setAttribute("href","https://twinnyblogger.blogspot.com/");
+                  z.setAttribute("ref","dofollow");
+                  z.setAttribute("title","⚡ by TWINNY BLOGGER");
+                  z.innerHTML="⚡ by Twinny Blogger - Jasa Pembuatan Template Blogger"
+              });
